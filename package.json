@@ -5,7 +5,7 @@
   "homepage": "https://github.com/PavelBakhtin/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /PavelBakhtin/goit-js-hw-08 "
+    "build": "parcel build src/*.html --public-url /PavelBakhtin/goit-js-hw-08/ "
   },
   "repository": {
     "type": "git",
